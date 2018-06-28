@@ -1,0 +1,14 @@
+.body {
+	margin: 0;
+	background-color: #121a52;
+}
+
+.body input {
+	border-radius: 5px 5px 5px 5px;
+}
+
+.topMenu {
+	color: #fff;
+	background-color: #090d2b;
+	border-bottom: 2px solid #000;
+}

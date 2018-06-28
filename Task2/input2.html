@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="styles/input2.css">
+		<script type="text/javascript" src="scripts/input2.js"></script>
+		<title>Home page</title>
+	</head>
+	<body class="body">
+		<div class="topMenu">
+			<a href="input.html">Autorization</a>/
+			<a href="input1.html">Registration</a>/Table
+		</div>
+		<table class="table">
+			<tr>
+				<th>First name</th>
+				<th>Last name</th>
+				<th>Actions</th>
+			</tr>
+			<tr>
+				<td>Ralf</td>
+				<td>Holt</td>
+				<td>
+					<input type="button" value="Change" onclick="Show();">
+					<input type="button" value="Show">
+				</td>
+			</tr>
+			<tr>
+				<td>Donald</td>
+				<td>Lane</td>
+				<td>
+					<input type="button" value="Change">
+					<input type="button" value="Show">
+				</td>
+			</tr>
+			<tr>
+				<td>Michael</td>
+				<td>Murphy</td>
+				<td>
+					<input type="button" value="Change">
+					<input type="button" value="Show">
+				</td>
+			</tr>
+		</table>
+		<div id="modal">
+			<p>First Name:
+				<input type="text" value="Ralf">
+			</p>
+			<p>Last Name:
+				<input type="text" value="Holt">
+			</p>
+			<input type="button" onclick="Hide();" value="Close">
+		</div>
+		<div id="background">
+						
+		</div>
+	</body>
+</html>
