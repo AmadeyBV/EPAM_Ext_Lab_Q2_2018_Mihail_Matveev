@@ -1,0 +1,7 @@
+C:\Epam\EpamTask3\EpamTask3\bin\Debug\EpamTask3.exe.config
+C:\Epam\EpamTask3\EpamTask3\bin\Debug\EpamTask3.exe
+C:\Epam\EpamTask3\EpamTask3\bin\Debug\EpamTask3.pdb
+C:\Epam\EpamTask3\EpamTask3\obj\Debug\EpamTask3.csprojAssemblyReference.cache
+C:\Epam\EpamTask3\EpamTask3\obj\Debug\EpamTask3.csproj.CoreCompileInputs.cache
+C:\Epam\EpamTask3\EpamTask3\obj\Debug\EpamTask3.exe
+C:\Epam\EpamTask3\EpamTask3\obj\Debug\EpamTask3.pdb
