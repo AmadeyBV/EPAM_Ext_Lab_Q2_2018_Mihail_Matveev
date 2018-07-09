@@ -24,8 +24,8 @@ namespace EpamTask3.Tasks
         {
             while (true)
             {
-                Console.Write("Could you enter the side: ");
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write("Could you enter the side: ");//todo pn хардкод
+				Console.ForegroundColor = ConsoleColor.Yellow;
                 var str = Console.ReadLine();
                 Console.ResetColor();
 

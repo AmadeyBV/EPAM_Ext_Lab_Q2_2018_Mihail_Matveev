@@ -33,7 +33,7 @@ namespace EpamTask3
         {
             switch (command)
             {
-                case "task 1":
+                case "task 1"://todo pn хардкод
                     Task1.Start();
                     break;
                 case "task 2":

@@ -45,8 +45,8 @@ namespace EpamTask3.Tasks
 
             for (int i = 0; i < N; i++)
             {
-                str += "*";
-            }
+                str += "*";//todo pn хардкод
+			}
         }
 
         static void SecondVoid()
@@ -56,8 +56,8 @@ namespace EpamTask3.Tasks
 
             for (int i = 0; i < N; i++)
             {
-                sb.Append("*");
-            }
+                sb.Append("*");//todo pn хардкод
+			}
         }
     }
 }

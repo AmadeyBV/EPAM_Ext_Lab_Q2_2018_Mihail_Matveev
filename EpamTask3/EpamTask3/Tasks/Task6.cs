@@ -51,8 +51,8 @@ namespace EpamTask3.Tasks
         {
             switch(command)
             {
-                case "!bold":
-                    AddStyle("Bold");
+                case "!bold"://todo pn хардкод
+					AddStyle("Bold");
                     break;
                 case "!italics":
                     AddStyle("Italics");
