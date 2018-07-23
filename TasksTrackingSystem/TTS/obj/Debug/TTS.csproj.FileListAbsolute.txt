@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\bin\Debug\TTS.dll
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\bin\Debug\TTS.pdb
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\obj\Debug\TTS.dll
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\obj\Debug\TTS.pdb
+C:\Users\Lenovo\source\repos\TasksTrackingSystem\TTS\obj\Debug\TTS.csprojAssemblyReference.cache
