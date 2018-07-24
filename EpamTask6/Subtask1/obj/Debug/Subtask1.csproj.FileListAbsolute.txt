@@ -1,0 +1,6 @@
+C:\Epam\EpamTask6\Subtask1\bin\Debug\Subtask1.exe.config
+C:\Epam\EpamTask6\Subtask1\bin\Debug\Subtask1.exe
+C:\Epam\EpamTask6\Subtask1\bin\Debug\Subtask1.pdb
+C:\Epam\EpamTask6\Subtask1\obj\Debug\Subtask1.csproj.CoreCompileInputs.cache
+C:\Epam\EpamTask6\Subtask1\obj\Debug\Subtask1.exe
+C:\Epam\EpamTask6\Subtask1\obj\Debug\Subtask1.pdb

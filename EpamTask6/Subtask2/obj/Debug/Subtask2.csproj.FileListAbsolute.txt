@@ -1,0 +1,7 @@
+C:\Epam\EpamTask6\Subtask2\bin\Debug\Subtask2.exe.config
+C:\Epam\EpamTask6\Subtask2\bin\Debug\Subtask2.exe
+C:\Epam\EpamTask6\Subtask2\bin\Debug\Subtask2.pdb
+C:\Epam\EpamTask6\Subtask2\obj\Debug\Subtask2.csprojAssemblyReference.cache
+C:\Epam\EpamTask6\Subtask2\obj\Debug\Subtask2.csproj.CoreCompileInputs.cache
+C:\Epam\EpamTask6\Subtask2\obj\Debug\Subtask2.exe
+C:\Epam\EpamTask6\Subtask2\obj\Debug\Subtask2.pdb
