@@ -1,0 +1,7 @@
+C:\Epam\EpamTask7\EpamTask7\bin\Debug\EpamTask7.exe.config
+C:\Epam\EpamTask7\EpamTask7\bin\Debug\EpamTask7.exe
+C:\Epam\EpamTask7\EpamTask7\bin\Debug\EpamTask7.pdb
+C:\Epam\EpamTask7\EpamTask7\obj\Debug\EpamTask7.csprojAssemblyReference.cache
+C:\Epam\EpamTask7\EpamTask7\obj\Debug\EpamTask7.csproj.CoreCompileInputs.cache
+C:\Epam\EpamTask7\EpamTask7\obj\Debug\EpamTask7.exe
+C:\Epam\EpamTask7\EpamTask7\obj\Debug\EpamTask7.pdb
